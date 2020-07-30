@@ -1,0 +1,22 @@
+
+{
+  "name": "gatewayService",
+  "version": "1.0.0",
+  "description": "A gataway service ",
+  "main": "index.js",
+  "author": "Oscar Code",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "colors": "^1.4.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.6.0"
+  }
+}
+

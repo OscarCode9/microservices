@@ -1,0 +1,5 @@
+docker run -p 3000:3000 -d oscarcode/node-web-app
+
+docker run -p 8080:8080  -e PORT=8080 -d oscarcode/spring-web-app
+
+
